@@ -1,0 +1,12 @@
+/*
+	UserInput 
+	Takes a pair of switches and creates a pair of outputs where one reg is 0 for down, 1 for up and the other is 0 for stop and 1 for moving.
+	
+*/
+module UserInput(playerOneIn, playerTwoIn, paddleOneMove, paddleTwoMove);
+input wire [1:0] playerOneIn;
+input wire [1:0] playerTwoIn;
+output reg [1:0] paddleOneMove;
+output reg [1:0] paddleTwoMove;
+//TODO: write code
+endmodule

@@ -1,0 +1,7 @@
+/*
+*	
+*
+*	Input:
+*	goalScored: [0] is if a goal is scored, [1] 1 is left and [0] is right
+*/
+module GameScore()
